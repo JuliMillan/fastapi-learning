@@ -4,7 +4,7 @@ In this repo I will be following along some courses about FastAPI and making not
 
 [FastAPI documentation](https://fastapi.tiangolo.com/)
 
-## [FastAPI Fundamentals](fastapi-learning/fastapi-fundamentals)
+## [FastAPI Fundamentals](fastapi-fundamentals)
 
 
 
