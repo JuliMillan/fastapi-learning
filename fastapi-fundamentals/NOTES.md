@@ -104,3 +104,7 @@ def get_cars():
 
 > When developing a REST API, it's common to prefix our urls with "api".
 
+Now, if we go to [http://127.0.0.1:8000/api/cars](http://127.0.0.1:8000/api/cars) we can see the full list of cars that our database has.
+
+![full db](img/Screenshot2026-05-15at12-58-56.png)
+
